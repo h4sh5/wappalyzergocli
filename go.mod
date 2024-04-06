@@ -1,4 +1,4 @@
-module wappalyzergocli
+module github.com/h4sh5/wappalyzergocli
 
 go 1.21.1
 
